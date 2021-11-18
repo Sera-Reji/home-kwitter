@@ -1,0 +1,45 @@
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}body
+{
+background-image: linear-gradient(to right top, #525252, #444444, #383838, #222222, #000000);
+}
+
+.header
+{
+	color: white;font-family: 'Yuji Mai', serif; 
+	font-size: 45px; 
+	letter-spacing: 10px; 
+	margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	align-content: space-around;
+	background: rgba(0, 0, 0, 0.8);float: none;
+	border-radius: 15px;
+	width: 700px;
+	height: 400px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 100px;
+}
+
+#login_button
+{
+	width: 80%;
+	border-radius: 10px;
+	text-size-adjust: 100%;
+}
+h3 , h4 , label{
+	color: white;
+}
